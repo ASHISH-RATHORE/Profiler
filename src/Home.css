@@ -1,0 +1,22 @@
+.dropdown{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.user-list{
+    height: auto;
+    margin-top: 10px;
+    display:flex;
+    /* flex-wrap:wrap; */
+    justify-content: center;
+    margin-left: 70px;
+    width:auto !important;
+    padding-left: 0px !important;
+    text-decoration: none !important;
+
+}
+
+.user-list div {
+    margin-top: 20px;
+}

@@ -1,0 +1,11 @@
+.profile-details div:nth-child(2) {
+    display:flex !important ;
+    letter-spacing: 2px !important;
+
+}
+/* 
+.image{
+    width: 100px !important;
+    border-radius: 15px !important;
+} */
+
